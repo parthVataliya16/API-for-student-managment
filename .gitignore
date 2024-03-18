@@ -1,4 +1,4 @@
-vendor/*
-public/uploads/*
+vendor
+/public/uploads
 .env
 errors.log
