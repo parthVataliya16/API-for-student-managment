@@ -1,0 +1,4 @@
+vendor/*
+public/uploads/*
+.env
+errors.log
